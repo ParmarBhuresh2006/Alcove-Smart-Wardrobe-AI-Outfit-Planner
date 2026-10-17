@@ -14,7 +14,37 @@
 [![OpenCV](https://img.shields.io/badge/Computer%20Vision-OpenCV%20Color%20Clustering-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Privacy First](https://img.shields.io/badge/Privacy-100%25%20Offline%20%26%20On--Device-success?style=for-the-badge)](#privacy-first-offline-architecture)
 
-[Features](#-key-features) • [Screenshots](#-visual-showcase) • [Architecture](#-system-architecture) • [Tech Stack](#-technology-stack) • [Quick Start](#-quick-start-installation) • [AI / ML Pipeline](#-ai--computer-vision-engine) • [API Reference](#-api-endpoints) • [Project Structure](#-project-structure)
+[Demo Video](#-product-demo-video) • [Features](#-key-features) • [Screenshots](#-visual-showcase) • [Architecture](#-system-architecture) • [Tech Stack](#-technology-stack) • [Quick Start](#-quick-start-installation) • [AI / ML Pipeline](#-ai--computer-vision-engine) • [API Reference](#-api-endpoints) • [Project Structure](#-project-structure)
+
+</div>
+
+---
+
+## 🎥 Product Demo Video
+
+<div align="center">
+
+<!-- 
+  =============================================================================
+  HOW TO ADD YOUR VIDEO ON GITHUB:
+  Option 1 (Recommended - GitHub hosted):
+    1. Open your repository on GitHub in your browser.
+    2. Click the pencil icon to edit README.md (or drag into any Issue/PR comment box).
+    3. Drag & drop your video file (.mp4, .mov, or .webm) directly into the box.
+    4. GitHub will upload it and generate a URL like:
+       https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+    5. Replace "YOUR_VIDEO_URL_HERE" below with that link!
+
+  Option 2 (Local file in repo):
+    Commit a video (e.g., demo.mp4) into this repo and change src="demo.mp4".
+  =============================================================================
+-->
+
+<video src="YOUR_VIDEO_URL_HERE" controls="controls" muted="muted" width="100%" poster="WEBIMAGES/Screenshot%202026-07-22%20214931.png" style="max-width: 100%; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
+  <p>Your browser does not support HTML5 video. <a href="YOUR_VIDEO_URL_HERE">Click here to watch the demo video</a>.</p>
+</video>
+
+<p><em>✨ Watch Alcove in action — AI auto-tagging, outfit recommendations, and wardrobe analytics</em></p>
 
 </div>
 
