@@ -24,27 +24,17 @@
 
 <div align="center">
 
-<!-- 
-  =============================================================================
-  HOW TO ADD YOUR VIDEO ON GITHUB:
-  Option 1 (Recommended - GitHub hosted):
-    1. Open your repository on GitHub in your browser.
-    2. Click the pencil icon to edit README.md (or drag into any Issue/PR comment box).
-    3. Drag & drop your video file (.mp4, .mov, or .webm) directly into the box.
-    4. GitHub will upload it and generate a URL like:
-       https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
-    5. Replace "YOUR_VIDEO_URL_HERE" below with that link!
+<a href="https://github.com/ParmarBhuresh2006/Alcove-Smart-Wardrobe-AI-Outfit-Planner/blob/main/WEBIMAGES/Alcove%20%E2%80%94%20Smart%20Wardrobe%20%26%20Outfit%20Planner.mp4">
+  <img src="WEBIMAGES/Home.png" alt="Alcove Smart Wardrobe Demo Video" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);" />
+</a>
 
-  Option 2 (Local file in repo):
-    Commit a video (e.g., demo.mp4) into this repo and change src="demo.mp4".
-  =============================================================================
--->
+<br/><br/>
 
-<video src="https://github.com/ParmarBhuresh2006/Alcove-Smart-Wardrobe-AI-Outfit-Planner/blob/main/WEBIMAGES/Alcove%20%E2%80%94%20Smart%20Wardrobe%20%26%20Outfit%20Planner.mp4" controls="controls" muted="muted" width="100%" poster="WEBIMAGES/Home.png" style="max-width: 100%; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
-  <p>Your browser does not support HTML5 video. <a href="https://github.com/ParmarBhuresh2006/Alcove-Smart-Wardrobe-AI-Outfit-Planner/blob/main/WEBIMAGES/Alcove%20%E2%80%94%20Smart%20Wardrobe%20%26%20Outfit%20Planner.mp4">Click here to watch the demo video</a>.</p>
-</video>
+<a href="https://github.com/ParmarBhuresh2006/Alcove-Smart-Wardrobe-AI-Outfit-Planner/blob/main/WEBIMAGES/Alcove%20%E2%80%94%20Smart%20Wardrobe%20%26%20Outfit%20Planner.mp4">
+  <img src="https://img.shields.io/badge/▶%20Play%20Demo%20Video-Watch%20Full%20Walkthrough-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Demo Video" />
+</a>
 
-<p><em>✨ Watch Alcove in action — AI auto-tagging, outfit recommendations, and wardrobe analytics</em></p>
+<p><em>👆 <strong>Click the image or button above to watch the full HD video walkthrough on GitHub!</strong></em></p>
 
 </div>
 
