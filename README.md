@@ -40,8 +40,8 @@
   =============================================================================
 -->
 
-<video src="WEBIMAGES/Alcove — Smart Wardrobe & Outfit Planner.mp4" controls="controls" muted="muted" width="100%" poster="WEBIMAGES/Home.png" style="max-width: 100%; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
-  <p>Your browser does not support HTML5 video. <a href="WEBIMAGES/Alcove — Smart Wardrobe & Outfit Planner.mp4">Click here to watch the demo video</a>.</p>
+<video src="https://github.com/ParmarBhuresh2006/Alcove-Smart-Wardrobe-AI-Outfit-Planner/blob/main/WEBIMAGES/Alcove%20%E2%80%94%20Smart%20Wardrobe%20%26%20Outfit%20Planner.mp4" controls="controls" muted="muted" width="100%" poster="WEBIMAGES/Home.png" style="max-width: 100%; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
+  <p>Your browser does not support HTML5 video. <a href="https://github.com/ParmarBhuresh2006/Alcove-Smart-Wardrobe-AI-Outfit-Planner/blob/main/WEBIMAGES/Alcove%20%E2%80%94%20Smart%20Wardrobe%20%26%20Outfit%20Planner.mp4">Click here to watch the demo video</a>.</p>
 </video>
 
 <p><em>✨ Watch Alcove in action — AI auto-tagging, outfit recommendations, and wardrobe analytics</em></p>
