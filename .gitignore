@@ -82,3 +82,11 @@ Desktop.ini
 ~$*.docx
 ~$*.pptx
 ~$*.xlsx
+
+# --- Large Media / Video files (Upload to GitHub CDN instead) ---
+*.mp4
+*.mov
+*.avi
+*.wmv
+
+
