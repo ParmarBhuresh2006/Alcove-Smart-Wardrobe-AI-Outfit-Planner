@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Alcove Banner](WEBIMAGES/Screenshot%202026-07-22%20214931.png)
+![Alcove Banner](WEBIMAGES/Home.png)
 
 ### *Intelligent, Privacy-First, 100% On-Device Wardrobe Management & Outfit Recommendation Engine*
 
@@ -40,8 +40,8 @@
   =============================================================================
 -->
 
-<video src="YOUR_VIDEO_URL_HERE" controls="controls" muted="muted" width="100%" poster="WEBIMAGES/Screenshot%202026-07-22%20214931.png" style="max-width: 100%; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
-  <p>Your browser does not support HTML5 video. <a href="YOUR_VIDEO_URL_HERE">Click here to watch the demo video</a>.</p>
+<video src="WEBIMAGES/Alcove — Smart Wardrobe & Outfit Planner.mp4" controls="controls" muted="muted" width="100%" poster="WEBIMAGES/Home.png" style="max-width: 100%; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
+  <p>Your browser does not support HTML5 video. <a href="WEBIMAGES/Alcove — Smart Wardrobe & Outfit Planner.mp4">Click here to watch the demo video</a>.</p>
 </video>
 
 <p><em>✨ Watch Alcove in action — AI auto-tagging, outfit recommendations, and wardrobe analytics</em></p>
@@ -115,49 +115,41 @@ Alcove changes that by running **100% locally on your machine**:
 
 ### Main Dashboard Overview
 *Real-time wardrobe analytics, quick actions, weather widgets, and recent recommendations*
-![Main Dashboard](WEBIMAGES/Screenshot%202026-07-22%20214931.png)
+![Main Dashboard](WEBIMAGES/Home.png)
 
 ---
 
-### Digital Wardrobe Catalog
-*Browse, search, and filter garments with AI badges and status indicators*
-![Wardrobe Catalog](WEBIMAGES/Screenshot%202026-07-22%20214940.png)
 
----
 
 ### AI Outfit Generator
 *Live weather integration, occasion toggles, and multi-factor 100-point compatibility scoring*
-![Outfit Generator](WEBIMAGES/Screenshot%202026-07-22%20215005.png)
+![Outfit Generator](WEBIMAGES/Generate.png)
 
 ---
 
 ### Wardrobe Gap Analysis & Shopping Advice
 *Closet distribution analysis, deficiency warnings, and curated recommendations*
-![Gap Analysis](WEBIMAGES/Screenshot%202026-07-22%20215019.png)
+![Gap Analysis](WEBIMAGES/Gap.png)
 
 ---
 
 ### Wear History Calendar
 *Monthly outfit logs, wear frequency counts, and outfit history*
-![Wear History Calendar](WEBIMAGES/Screenshot%202026-07-22%20215010.png)
+![Wear History Calendar](WEBIMAGES/Calender.png)
 
 ---
 
 ### Smart Trip Packing Planner
 *Capsule wardrobe generator tailored to destination length and occasion mix*
-![Trip Packing](WEBIMAGES/Screenshot%202026-07-22%20215026.png)
+![Trip Packing](WEBIMAGES/Trip.png)
 
 ---
 
-### Public Outfit Sharing & Feedback
-*Shareable outfit links with friend/stylist voting and comments*
-![Shared Outfit](WEBIMAGES/Screenshot%202026-07-22%20215051.png)
 
----
 
 ### Authentication Portal
 *Secure glassmorphic login & registration with JWT session handling*
-![Authentication Portal](WEBIMAGES/Screenshot%202026-07-22%20214746.png)
+![Authentication Portal](WEBIMAGES/Signin.png)
 
 </div>
 
